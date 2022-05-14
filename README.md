@@ -30,4 +30,5 @@ Features
 3)The command lines are simple, no semicolons, no pipes, no redirections, or any other advanced features.
 4)The command lines are made only of one word.No arguement will be passed to the programs. 5.If an executable is not found the shell prints an error message and displayu the prompt again.
 Credits
+
 All codes written by Orji Chima Prince and Favour golden idikibiebuma
