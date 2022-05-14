@@ -24,6 +24,7 @@ AUTHORS
 This file contains the details of all the individuals that contributed to this shell project.
 
 Features
+
 1)DIsplay a prompt and wait for the user to type a command. A command-line always ends with a new line.
 2)The prompt is displayed again each time a command has been executed.
 3)The command lines are simple, no semicolons, no pipes, no redirections, or any other advanced features.
