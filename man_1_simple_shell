@@ -1,4 +1,4 @@
-MPLE_SHELL"
+ MPLE_SHELL"
 .SH NAME
 .B simple_shell
 - a simple UNIX command interpreter
@@ -78,4 +78,4 @@ The primary prompt string, which defaults to “$ ”
 .SH BUGS
 .ip Expansions only work once per stdin read
 .SH AUTHOR
-Chima Prince Orji and Favour golden idikibiebuma
+Chima Prince Orji and Favour  golden idikibiebuma
