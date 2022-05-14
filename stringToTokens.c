@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- *  * *nbr_spaces - return the number of occurent of a string
- *   * @s: string to check
- *    * Return: int
- *     */
+ * *nbr_spaces - return the number of occurent of a string
+ * @s: string to check
+ * Return: int
+ */
 
 unsigned int nbr_spaces(char *s)
 {
