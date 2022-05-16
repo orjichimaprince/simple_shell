@@ -64,6 +64,9 @@ the last command executed, or if the exit builtin is used with a numeric argumen
 it will return the argument.
 .sp
 .SH ENVIRONMENT
+.SH DESCRIPTION
+
+		The sh utility is a command language interpreter that shall execute commands read from a command line string, the stanar input, or a specified file.
 .sp
 .IP HOME
 User's login directory
