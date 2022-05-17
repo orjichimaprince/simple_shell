@@ -1,4 +1,5 @@
 #include "main.h"
+#include "stdlio"
 
 /**
  * *nbr_spaces - return the number of occurent of a string
