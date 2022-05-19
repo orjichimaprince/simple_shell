@@ -1,7 +1,7 @@
 #include "..main.h"
 
 /**
- *tokenaization - split a sentence into multiple words.
+ *tokenaization - split a  sentence into multiple words.
  *@str: the string passed as argument.
  *Return: pointer holding words.
  */
